@@ -6,4 +6,4 @@ This is my first website, on the index or landing page it has a navigation bar w
 
 # Screenshot
 
-![Screenshot](img/myfirstwbesite.jpg)
+![Screenshot](img/myfirstwebsite.jpg)
